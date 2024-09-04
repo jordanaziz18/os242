@@ -4,3 +4,10 @@
 ZCZC W00 99 L02 Attending scheduled lecture
 ZCZC W00 20 L03 Setting up github
 ZCZC W00 99 L04 CLASSROOM/ZOOM meetings related
+ZCZC W00 60 L09 Weekly Assignments
+ZCZC W00 20 L05 Quiz 00
+ZCZC W00 99 L04 CLASSROOM/ZOOM meetings related
+ZCZC W01 60 L09 Weekly Assignments
+ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 60 L09 Weekly Assignments
+ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
