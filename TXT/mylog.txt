@@ -11,3 +11,5 @@ ZCZC W01 60 L09 Weekly Assignments
 ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 60 L09 Weekly Assignments
 ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 20 LO5 Quiz 01
+ZCZC W01 30 L09 Weekly Assignments
