@@ -23,3 +23,7 @@ ZCZC W03 60 L09 weekly assigments
 ZCZC W03 20 L00 General, etc.
 ZCZC W03 20 L01 SCELE/Discord related
 ZCZC W03 99 L02 CLASSROOM/ZOOM meetings related 
+ZCZC W04 30 L05 quiz 03
+ZCZC W04 99 L02 classroom/zoom
+ZCZC W04 60 L09 weekly assigments 
+ZCZC W04 60 L09 weekly assigments 

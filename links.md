@@ -13,5 +13,9 @@ permalink: LINKS/
   A playlist of how to understand C language
 * [Understanding Tarball](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/) {:target="_blank"} ---
   A video explaing about Tarball
+* [Operating Systems Programming Slides](https://docos.vlsm.org/) {:target="_blank"} ---
+  Slides with LaTeX sources code.
+* [Operating System Introduction by NESO Academy] (https://www.youtube.com/watch?v=vBURTt97EkA)--- I think this is a very helpful source for os learners to learn {:target="_blank"} ---
+* [How Do Operating Systems Work? by ClickView] (https://www.youtube.com/watch?v=GjNp0bBrjmU&ab_channel=ClickView){:target="_blank"} --- A video about Operating System.
 <br>
 <hr>
