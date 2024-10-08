@@ -27,3 +27,8 @@ ZCZC W04 30 L05 quiz 03
 ZCZC W04 99 L02 classroom/zoom
 ZCZC W04 60 L09 weekly assigments 
 ZCZC W04 60 L09 weekly assigments 
+ZCZC W05 99 L04 classroom
+ZCZC W05 20 L05 Quiz 04
+ZCZC W05 60 L05 Weekly assigments 
+ZCZC W05 99 L04 Classroom 
+ZCZC W05 60 L09 Weekly assigments
