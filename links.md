@@ -17,5 +17,7 @@ permalink: LINKS/
   Slides with LaTeX sources code.
 * [Operating System Introduction by NESO Academy] (https://www.youtube.com/watch?v=vBURTt97EkA)--- I think this is a very helpful source for os learners to learn {:target="_blank"} ---
 * [How Do Operating Systems Work? by ClickView] (https://www.youtube.com/watch?v=GjNp0bBrjmU&ab_channel=ClickView){:target="_blank"} --- A video about Operating System.
+* [Segmented, Paged and Virtual Memory] (https://www.youtube.com/watch?v=p9yZNLeOj4s&ab_channel=ComputerScienceLessons/) {:target="_blank"} ---
+A video about Segmented and Paged memory. 
 <br>
 <hr>
