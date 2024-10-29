@@ -32,3 +32,7 @@ ZCZC W05 20 L05 Quiz 04
 ZCZC W05 60 L05 Weekly assigments 
 ZCZC W05 99 L04 Classroom 
 ZCZC W05 60 L09 Weekly assigments
+ZCZC W06 99 L04 Class
+ZCZC W06 60 L09 weekly assigments
+ZCZC W06 99 LO4 Class
+ZCZC W06 30 L00 General, etc
