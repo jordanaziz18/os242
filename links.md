@@ -19,5 +19,6 @@ permalink: LINKS/
 * [How Do Operating Systems Work? by ClickView] (https://www.youtube.com/watch?v=GjNp0bBrjmU&ab_channel=ClickView){:target="_blank"} --- A video about Operating System.
 * [Segmented, Paged and Virtual Memory] (https://www.youtube.com/watch?v=p9yZNLeOj4s&ab_channel=ComputerScienceLessons/) {:target="_blank"} ---
 A video about Segmented and Paged memory. 
+* [The fork() function in C] (https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault) {:target="_blank"} --- This is a good video to graps for understading the Fork fuction.
 <br>
 <hr>

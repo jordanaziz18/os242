@@ -36,3 +36,8 @@ ZCZC W06 99 L04 Class
 ZCZC W06 60 L09 weekly assigments
 ZCZC W06 99 LO4 Class
 ZCZC W06 30 L00 General, etc
+ZCZC W07 99 L04 class 
+ZCZC W07 20 L05 QUIZ
+ZCZC W07 60 L09 weekly assigments
+ZCZC W07 99 L04 CLASS
+ZCZC W07 60 L09 weekly assigments
