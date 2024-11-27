@@ -51,3 +51,8 @@ ZCZC W09 20 L05 QUIZ
 ZCZC W09 60 L09 weekly assigments
 ZCZC W09 99 L04 CLASS
 ZCZC W09 60 L09 weekly assigments
+ZCZC W010 99 L04 class 
+ZCZC W010 20 L05 QUIZ
+ZCZC W010 60 L09 weekly assigments
+ZCZC W010 99 L04 CLASS
+ZCZC W010 60 L09 weekly assigments
